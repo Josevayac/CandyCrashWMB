@@ -1,5 +1,5 @@
-# CandyCrashWMB
-Repositorio para juego de Candy Crash 
+# CandyCrushWMB
+Repositorio para juego de Candy Crush 
 # Integrantes
 Walter Hernandez
 #
