@@ -35,6 +35,10 @@ namespace APICandy.Models
     public class RegisterBindingModel
     {
         [Required]
+        [Display(Name = "Alias")]
+        public string Name { get; set; }
+
+        [Required]
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
 
@@ -52,6 +56,10 @@ namespace APICandy.Models
 
     public class RegisterExternalBindingModel
     {
+        [Required]
+        [Display(Name = "Alias")]
+        public string Name { get; set; }
+
         [Required]
         [Display(Name = "Correo electrónico")]
         public string Email { get; set; }
