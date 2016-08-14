@@ -56,13 +56,13 @@ namespace APICandy
             //    consumerSecret: "");
 
             //app.UseFacebookAuthentication(
-            //    appId: "",
-            //    appSecret: "");
+            //    appId: "1585825611717728",
+            //    appSecret: "de59fe791dc277554ee6a4a49559ee72");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
-            //    ClientId = "",
-            //    ClientSecret = ""
+            //    ClientId = "232319630877-fi9mvd6p6ot8dq155bc9h9v17svc56el.apps.googleusercontent.com",
+            //    ClientSecret = "8hr37MQESAU2VfvLm34W6gFE"
             //});
         }
     }
